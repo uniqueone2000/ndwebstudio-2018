@@ -1,0 +1,15 @@
+{
+  "name": "ndwebserver-2018",
+  "version": "1.0.0",
+  "description": "Backend Application for the Next Dimension Web Studios Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Charles K. Evelyn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
